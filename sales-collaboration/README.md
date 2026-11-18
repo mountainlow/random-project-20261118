@@ -11,3 +11,10 @@
 文件保留原名，`manifest.json`记录字节数和SHA-256，用于下载核对。
 
 内容为会议讨论建议，涉及职责、审批权限及实施计划的规则须结合公司实际确定。
+
+## 直接下载
+
+- [全部文件 ZIP](https://raw.githubusercontent.com/mountainlow/random-project-20261118/refs/heads/upload/sales-collaboration/sales-collaboration/downloads/sales-collaboration-output.zip)
+- [PDF 阅读版](https://raw.githubusercontent.com/mountainlow/random-project-20261118/refs/heads/upload/sales-collaboration/sales-collaboration/downloads/sales-collaboration-preview.pdf)
+
+ZIP 包保留5个原文件名，附校验清单。请先解压再使用。
